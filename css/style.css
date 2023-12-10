@@ -41,6 +41,7 @@ html, body{
     margin: 0px auto;
     padding: 0 15px;
     box-sizing: content-box;
+    overflow: hidden;
 }
 ._ibg{
     position: relative;
